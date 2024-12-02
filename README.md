@@ -5,7 +5,7 @@ This project is an automated testing suite for login functionality using the Cyp
 2. Error handling for invalid credentials.
 3. Form validation for empty fields.
 
-     ===The application under test is a simple login page hosted at **http://192.168.56.1:8080/.**==
+The application under test is a simple login page hosted at **http://192.168.56.1:8080/.**
 
 🚀 Features
 1. Automated Test Cases: Covers valid login, invalid login, and form validation.
