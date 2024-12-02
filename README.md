@@ -1,4 +1,4 @@
-LOGIN AUTOMATION TEST
+## LOGIN AUTOMATION TEST <!-- Heading level 2 (sedang) -->
 
 📋 **Description**
 This project is an automated testing suite for login functionality using the Cypress framework. It is designed to test various login scenarios, including:
