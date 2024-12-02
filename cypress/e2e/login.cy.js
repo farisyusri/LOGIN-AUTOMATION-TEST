@@ -25,6 +25,6 @@ describe("Login Functionality", () => {
   it("should disable the login button if fields are empty", () => {
     cy.visit("http://192.168.56.1:8080/");
 
-    cy.get('button[type="submit"]').should("be.disabled"); // Verifikasi tombol login disabled ketika form kosong
+    cy.get('button[type="submit"]').should("be.disabled"); 
   });
 });
